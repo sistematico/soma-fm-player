@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rainner/soma-fm-player.git"
+    "url": "git+https://github.com/sistematico/soma-fm-player.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rainner/soma-fm-player/issues"
+    "url": "https://github.com/sistematico/soma-fm-player/issues"
   },
-  "homepage": "https://github.com/rainner/soma-fm-player#readme",
+  "homepage": "https://github.com/sistematico/soma-fm-player#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
